@@ -1,258 +1,258 @@
  [
-    {
-      "id": 82,
-      "name": "Đừng hoài phí tuổi trẻ",
-      "price": 74,
-      "image": "/image/book5.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 83,
-      "name": "Tâm lý học hành vi",
-      "price": 55,
-      "image": "/image/book6.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 84,
-      "name": "Sách đen - Cẩm nang tuyệt mật",
-      "price": 62,
-      "image": "/image/book7.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 85,
-      "name": "Hôm nay phải mở mang",
-      "price": 44,
-      "image": "/image/book8.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 86,
-      "name": "Những bức thư đạo đức",
-      "price": 42,
-      "image": "/image/book9.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 87,
-      "name": "Người trong muôn nghề",
-      "price": 87,
-      "image": "/image/book10.png",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 89,
-      "name": "Ngành IT có gì?",
-      "price": 100,
-      "image": "/image/book11.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 90,
-      "name": "Phụ nữ độc lập tài chính",
-      "price": 121,
-      "image": "/image/book12.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 91,
-      "name": "Bạn đắt giá bao nhiêu?",
-      "price": 312,
-      "image": "/image/book13.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 92,
-      "name": "Khí chất bao nhiêu, hạnh phúc bấy nhiêu",
-      "price": 120,
-      "image": "/image/book14.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 93,
-      "name": "Đừng lựa chọn an nhàn khi còn trẻ",
-      "price": 30,
-      "image": "/image/book15.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 94,
-      "name": "Càng kỷ luật càng tự do",
-      "price": 20,
-      "image": "/image/book16.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 95,
-      "name": "Ổn định hay tự do",
-      "price": 55,
-      "image": "/image/book17.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 96,
-      "name": "Nghệ thuật giải mã hành vi",
-      "price": 47,
-      "image": "/image/book18.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 97,
-      "name": "Rèn luyện tư duy phản biện",
-      "price": 34,
-      "image": "/image/book19.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 98,
-      "name": "Tâm lý học biểu cảm",
-      "price": 55,
-      "image": "/image/book20.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 99,
-      "name": "Tư duy sâu",
-      "price": 42,
-      "image": "/image/book21.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 100,
-      "name": "Nghệ thuật tập trung",
-      "price": 58,
-      "image": "/image/book22.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 101,
-      "name": "Mọi người đều nói dối",
-      "price": 88,
-      "image": "/image/book23.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 102,
-      "name": "Chó sủa nhầm cây",
-      "price": 75,
-      "image": "/image/book24.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 103,
-      "name": "Tự kỉ ám thị",
-      "price": 99,
-      "image": "/image/book25.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 104,
-      "name": "Tâm lý học nói gì về nỗi đau",
-      "price": 214,
-      "image": "/image/book26.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 105,
-      "name": "Hãy khiến tương lai biết ơn",
-      "price": 74,
-      "image": "/image/book27.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 106,
-      "name": "Tôi nghĩ mọi thứ sẽ ổn",
-      "price": 15,
-      "image": "/image/book28.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 107,
-      "name": "Tôi quyết định sống cho chính tôi",
-      "price": 50,
-      "image": "/image/book29.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 108,
-      "name": "Điều tôi muốn nghe nhất",
-      "price": 64,
-      "image": "/image/book30.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 109,
-      "name": "Lấy người mình yêu, làm điều mình thích",
-      "price": 53,
-      "image": "/image/book1.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 110,
-      "name": "Đời có bao nhiêu, hãy ở bên những người thú vị",
-      "price": 44,
-      "image": "/image/book2.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 111,
-      "name": "Xé vài trang thanh xuân, đổi lấy một bản thân nỗ lực",
-      "price": 25,
-      "image": "/image/book3.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 112,
-      "name": "Kỷ luật tự giác",
-      "price": 37,
-      "image": "/image/book4.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 113,
-      "name": "Sức mạnh của ngôn từ",
-      "price": 92,
-      "image": "/image/book31.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    },
-    {
-      "id": 114,
-      "name": "Hãy ngẩng đầu mà đi",
-      "price": 45,
-      "image": "/image/book32.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
-      "cat_id": 6
-    }
+  {
+    "id": 82,
+    "name": "Đừng hoài phí tuổi trẻ",
+    "price": 74,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f1/c9/99/adbc4b3c17b083df28d1a1aa7fecc546.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 83,
+    "name": "Tâm lý học hành vi",
+    "price": 55,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/b6/a0/4c/6c1f410c6009740218e6b1107306babd.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 84,
+    "name": "Sách đen - Cẩm nang tuyệt mật",
+    "price": 62,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/64/a0/a8/6f8db5b9fed9eb9711e9ab620b3e5412.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 85,
+    "name": "Hôm nay phải mở mang",
+    "price": 44,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/8b/f0/50/883ca62c1c0c40ffab5fd04eef4073c3.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 86,
+    "name": "Những bức thư đạo đức",
+    "price": 42,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/9d/16/70/96ff593a550354ce055c067d064df37a.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 87,
+    "name": "Người trong muôn nghề",
+    "price": 87,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/58/89/8f/735764c5e6d8816a408e934ef2435a2c.png.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 89,
+    "name": "Ngành IT có gì?",
+    "price": 100,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6e/6f/e0/40d33719f67c9df7ea34d2bac9e52320.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 90,
+    "name": "Phụ nữ độc lập tài chính",
+    "price": 121,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5c/97/74/46188bc9d9fe8b6e5e10845220937e83.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 91,
+    "name": "Bạn đắt giá bao nhiêu?",
+    "price": 312,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c6/ff/9e/aceb689062a70e3a6f05f1677ed5cc67.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 92,
+    "name": "Khí chất bao nhiêu, hạnh phúc bấy nhiêu",
+    "price": 120,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/34/0f/8b/9454467ac316ea683f93ff25405eee34.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 93,
+    "name": "Đừng lựa chọn an nhàn khi còn trẻ",
+    "price": 30,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/eb/62/6b/0e56b45bddc01b57277484865818ab9b.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 94,
+    "name": "Càng kỷ luật càng tự do",
+    "price": 20,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/25/c4/75/73b6578834e8aa8e5e071b64fab93d5d.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 95,
+    "name": "Ổn định hay tự do",
+    "price": 55,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6b/f4/a1/f029ab00ae124fca88412f5cc0e36700.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 96,
+    "name": "Nghệ thuật giải mã hành vi",
+    "price": 47,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/b6/a0/4c/6c1f410c6009740218e6b1107306babd.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 97,
+    "name": "Rèn luyện tư duy phản biện",
+    "price": 34,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 98,
+    "name": "Tâm lý học biểu cảm",
+    "price": 55,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/93/f2/e6/730bd2d3a52f6254801e5fa71d0e8122.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 99,
+    "name": "Tư duy sâu",
+    "price": 42,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/76/53/da/3598ca9c124e59cd172a612193d643bf.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 100,
+    "name": "Nghệ thuật tập trung",
+    "price": 58,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/54/bd/9c/0bbe884b7f99a5b36435a3bf8a3402ee.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 101,
+    "name": "Mọi người đều nói dối",
+    "price": 88,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/93/56/3f/912b66010873bbd9c4183351e44f59ee.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 102,
+    "name": "Chó sủa nhầm cây",
+    "price": 75,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/03/ed/e9/32e1ff66be34767100fb05932e514065.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 103,
+    "name": "Tự kỉ ám thị",
+    "price": 99,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/df/e1/13/f2de3d2e036a443a7428ce2e18ec9386.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 104,
+    "name": "Tâm lý học nói gì về nỗi đau",
+    "price": 214,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/cb/fe/26/d57e318ace0fa2bdab92b991d468ea70.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 105,
+    "name": "Hãy khiến tương lai biết ơn",
+    "price": 74,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/a4/8b/6a/fbaf1f5fdfd92ff7b8bb80057e808c69.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 106,
+    "name": "Tôi nghĩ mọi thứ sẽ ổn",
+    "price": 15,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0b/e4/9d/9819a2afb854e301ebaf93e8e4a8a9d3.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 107,
+    "name": "Tôi quyết định sống cho chính tôi",
+    "price": 50,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/65/08/87/cb07a056cf783f24bb833c983a6941a1.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 108,
+    "name": "Điều tôi muốn nghe nhất",
+    "price": 64,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/02/0b/c6/43867806e785e9c9cd9eaa78ebee92ad.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 109,
+    "name": "Lấy người mình yêu, làm điều mình thích",
+    "price": 53,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/93/62/c8/a66b5a6a13b318ddfe4e188c6082ff8e.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 110,
+    "name": "Đời có bao nhiêu, hãy ở bên những người thú vị",
+    "price": 44,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c2/e6/8c/8726da750c1ea9b8e127ba227e1f9d5c.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 111,
+    "name": "Xé vài trang thanh xuân, đổi lấy một bản thân nỗ lực",
+    "price": 25,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0f/73/50/bf9237d6e89a6982250e1e9e2cd09a68.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 112,
+    "name": "Kỷ luật tự giác",
+    "price": 37,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/27/2e/63/308986aa2c17293af227162874ad24a3.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 113,
+    "name": "Sức mạnh của ngôn từ",
+    "price": 92,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c2/92/1a/bf00a302cc3559ac33690557274dbcd6.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  },
+  {
+    "id": 114,
+    "name": "Hãy ngẩng đầu mà đi",
+    "price": 45,
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/97/47/b2/780acb45d807395a6c58968f48780215.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến mọi khía cạnh trong cuộc sống",
+    "cat_id": 6
+  }
   ]

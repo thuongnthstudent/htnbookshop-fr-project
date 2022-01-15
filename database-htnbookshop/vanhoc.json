@@ -1,130 +1,130 @@
 [
-    {
-      "id": 18,
-      "name": "Có một ngày bố mẹ sẽ già đi",
-      "price": 66,
-      "image": "/image/vh1.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 19,
-      "name": "Chúng ta rồi sẽ hạnh phúc",
-      "price": 30,
-      "image": "/image/vh2.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 20,
-      "name": "Tiện nhân ở phố",
-      "price": 99,
-      "image": "/image/vh3.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 21,
-      "name": "Lặng yên cho nước chảy",
-      "price": 22,
-      "image": "/image/vh4.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 22,
-      "name": "Nếu biết trăm năm là hữu hạn",
-      "price": 85,
-      "image": "/image/vh5.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 23,
-      "name": "Thiên tài bên trái, kẻ điên bên phải",
-      "price": 91,
-      "image": "/image/vh6.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 24,
-      "name": "Trăm năm cô đơn",
-      "price": 85,
-      "image": "/image/vh7.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 25,
-      "name": "Về nhà với mẹ",
-      "price": 46,
-      "image": "/image/vh8.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 26,
-      "name": "Để yên cho bác sĩ ''hiền''",
-      "price": 85,
-      "image": "/image/vh9.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 27,
-      "name": "Hai số phận",
-      "price": 64,
-      "image": "/image/vh10.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 28,
-      "name": "Biên niên cô đơn",
-      "price": 44,
-      "image": "/image/vh11.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 29,
-      "name": "Những đêm không ngủ",
-      "price": 77,
-      "image": "/image/vh12.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 30,
-      "name": "Chỉ về nhà để ngủ",
-      "price": 153,
-      "image": "/image/vh13.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 31,
-      "name": "Thế giới rộng lớn, lòng người chật hẹp",
-      "price": 56,
-      "image": "/image/vh14.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 32,
-      "name": "Ơ kìa! Tuổi thơ",
-      "price": 77,
-      "image": "/image/vh15.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    },
-    {
-      "id": 33,
-      "name": "Ta bắt đầu cuộc đời mới",
-      "price": 88,
-      "image": "/image/vh16.jpg",
-      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
-      "cat_id": 2
-    }
+  {
+    "id": 18,
+    "name": "Có một ngày bố mẹ sẽ già đi",
+    "price": 66,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/89/f1/fc/130e8b3dea2ab17db80879d25381c830.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 19,
+    "name": "Chúng ta rồi sẽ hạnh phúc",
+    "price": 30,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/e3/ca/0d/76f6a10f1f233fc9f834295d198ff179.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 20,
+    "name": "Tiện nhân ở phố",
+    "price": 99,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/39/13/90/f8287c15f3a96d0ea1b8dada5b73b828.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 21,
+    "name": "Lặng yên cho nước chảy",
+    "price": 22,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/9f/2e/8d/38742d919ec7772a17bdb527faf18d99.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 22,
+    "name": "Nếu biết trăm năm là hữu hạn",
+    "price": 85,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/54/28/11/65c71b16dc8e94c49c5ebc2a43846606.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 23,
+    "name": "Thiên tài bên trái, kẻ điên bên phải",
+    "price": 91,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/7c/e8/34/4d3636aadb471cad0bf2f45d681e4f23.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 24,
+    "name": "Trăm năm cô đơn",
+    "price": 85,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/37/3b/5d/5efd681d48d5a81e3e6675121e69d38d.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 25,
+    "name": "Về nhà với mẹ",
+    "price": 46,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/3a/80/9d/2e6983eba1528f092f9cbe9833da4b15.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 26,
+    "name": "Để yên cho bác sĩ ''hiền''",
+    "price": 85,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/79/a5/d2/1c8953a4d605bfc15ba1138176c17135.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 27,
+    "name": "Hai số phận",
+    "price": 64,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/0a/fb/51/202015881b04b7c8a4b47d15cf9c049f.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 28,
+    "name": "Biên niên cô đơn",
+    "price": 44,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/7a/fb/4e/4df230b5dbd95ef93e67d0b18df28d7a.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 29,
+    "name": "Những đêm không ngủ",
+    "price": 77,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/a8/e9/36/94bb68f3b55bb93a593fec97c087915f.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 30,
+    "name": "Chỉ về nhà để ngủ",
+    "price": 153,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/23/80/a0/b6f6269ef4d09010a95c18748ee59a05.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 31,
+    "name": "Thế giới rộng lớn, lòng người chật hẹp",
+    "price": 56,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/ca/6b/8e/035af2e9567f982c6cc22f986d67a9cc.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 32,
+    "name": "Ơ kìa! Tuổi thơ",
+    "price": 77,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/9f/3e/b0/89764b6835985ecd4ba01582d41f946d.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  },
+  {
+    "id": 33,
+    "name": "Ta bắt đầu cuộc đời mới",
+    "price": 88,
+    "image": "https://salt.tikicdn.com/cache/1200x1200/ts/product/91/d7/a4/0b66b99912f2daf81b09fdde03a9a722.jpg.webp",
+    "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
+    "cat_id": 2
+  }
   ]
