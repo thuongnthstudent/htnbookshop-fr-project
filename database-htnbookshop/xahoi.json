@@ -1,0 +1,114 @@
+[
+    {
+      "id": 50,
+      "name": "Cơ thể tự chữa lành",
+      "price": 99,
+      "image": "/image/xh1.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 51,
+      "name": "Lịch sử của trà",
+      "price": 53,
+      "image": "/image/xh2.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 52,
+      "name": "Giao tiếp với thiên nhiên",
+      "price": 42,
+      "image": "/image/xh3.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 53,
+      "name": "Từ vô hình đến hữu hình",
+      "price": 52,
+      "image": "/image/xh4.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 54,
+      "name": "Câu chuyện cơ thể con người",
+      "price": 34,
+      "image": "/image/xh5.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 57,
+      "name": "Lược sử vạn vật",
+      "price": 63,
+      "image": "/image/xh8.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 58,
+      "name": "Tôn tử binh pháp",
+      "price": 22,
+      "image": "/image/xh9.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 59,
+      "name": "Bí ẩn mãi mãi là bí ẩn",
+      "price": 37,
+      "image": "/image/xh10.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 60,
+      "name": "Thành phố kỳ vĩ nhất thế giới",
+      "price": 99,
+      "image": "/image/xh11.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 61,
+      "name": "Gen vị kỷ",
+      "price": 151,
+      "image": "/image/xh12.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 62,
+      "name": "Linh hồn thế giới",
+      "price": 45,
+      "image": "/image/xh13.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 63,
+      "name": "10 vạn câu hỏi vì sao?",
+      "price": 64,
+      "image": "/image/xh14.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 64,
+      "name": "Thuật tẩy não trong giáo dục",
+      "price": 99,
+      "image": "/image/xh15.png",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    },
+    {
+      "id": 65,
+      "name": "Chữa lành ánh sáng bản thể",
+      "price": 100,
+      "image": "/image/xh16.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết về phong cách sống, cổ vũ các bạn trẻ hãy thẳng thắn đối diện với bản thân, đừng phí hoài tuổi trẻ để làm vừa lòng những kỳ vọng của người khác, hãy sống theo cách mình muốn, làm điều mình thích, vì chúng ta chỉ có 1 cơ hội sống trên thế gian.",
+      "cat_id": 4
+    }
+  ]

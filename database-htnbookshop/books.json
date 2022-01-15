@@ -1,4 +1,4 @@
-{
+[{
       "id": 10,
       "name": "Rèn luyện tư duy phản biện",
       "price": 25,
@@ -237,4 +237,4 @@
       "image": "/image/vh13.jpg",
       "detail": "Cuốn sách là tập hợp nhiều câu chuyện ngắn và bài viết",
       "cat_id": 2
-    }
+    }]

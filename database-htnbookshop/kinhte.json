@@ -1,0 +1,130 @@
+[
+    {
+      "id": 34,
+      "name": "Tâm lý học về tiền",
+      "price": 85000,
+      "image": "/image/kt.b1.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 35,
+      "name": "Kinh tế học về tiền, ngân hàng và thị trường",
+      "price": 85000,
+      "image": "/image/kt.b2.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 36,
+      "name": "Tâm lý thị trường chứng khoán",
+      "price": 85000,
+      "image": "/image/kt.b3.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 37,
+      "name": "Người đàn ông đánh bại mọi thị trường",
+      "price": 85000,
+      "image": "/image/kt.b4.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 38,
+      "name": "Nhà đầu tư giá trị",
+      "price": 85000,
+      "image": "/image/kt.b5.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 39,
+      "name": "Nghệ thuật đầu tư",
+      "price": 85000,
+      "image": "/image/kt.b6.png",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 40,
+      "name": "Dạy con làm giàu 1",
+      "price": 85000,
+      "image": "/image/kt.b7.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 41,
+      "name": "Tiền đẻ ra tiền",
+      "price": 85000,
+      "image": "/image/kt.b8.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 42,
+      "name": "Nghĩ giàu làm giàu",
+      "price": 85000,
+      "image": "/image/kt.b9.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 43,
+      "name": "7 phương pháp đầu tư",
+      "price": 85000,
+      "image": "/image/kt.b10.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 44,
+      "name": "Chiến tranh tiền tệ",
+      "price": 85000,
+      "image": "/image/kt.b11.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 45,
+      "name": "Làm giàu từ chứng khoán",
+      "price": 85000,
+      "image": "/image/kt.b12.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 46,
+      "name": "Content bạc tỷ",
+      "price": 85000,
+      "image": "/image/kt.b13.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 47,
+      "name": "Digital Marketing",
+      "price": 85000,
+      "image": "/image/kt.b14.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 48,
+      "name": "Khởi nghiệp Online",
+      "price": 85000,
+      "image": "/image/kt.b15.png",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    },
+    {
+      "id": 49,
+      "name": "Nghệ thuật bán hàng bằng câu chuyện",
+      "price": 85000,
+      "image": "/image/kt.b16.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều bài học về kinh tế rút ra từ thực tiễn và lý thuyết.",
+      "cat_id": 3
+    }
+  ]

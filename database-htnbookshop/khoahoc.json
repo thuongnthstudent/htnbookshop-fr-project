@@ -1,0 +1,122 @@
+[
+    {
+      "id": 66,
+      "name": "Một thiên tiểu thuyết",
+      "price": 95,
+      "image": "/image/kh1.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 67,
+      "name": "Nghệ thuật căn chỉnh tư thế yoga",
+      "price": 45,
+      "image": "/image/kh2.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 68,
+      "name": "Năng lượng",
+      "price": 54,
+      "image": "/image/kh3.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 70,
+      "name": "Những nhà khám phá",
+      "price": 37,
+      "image": "/image/kh5.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 71,
+      "name": "Giáo trình lịch sử nghệ thuật",
+      "price": 100,
+      "image": "/image/kh6.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 72,
+      "name": "Sinh học phân tử của tế bào",
+      "price": 42,
+      "image": "/image/kh7.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 73,
+      "name": "Tế bào gốc",
+      "price": 454,
+      "image": "/image/kh8.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 74,
+      "name": "Khoa học về sự sống",
+      "price": 55,
+      "image": "/image/kh9.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 75,
+      "name": "Mạch học",
+      "price": 121,
+      "image": "/image/kh10.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 76,
+      "name": "Phương thang y học cổ truyền",
+      "price": 44,
+      "image": "/image/kh11.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 77,
+      "name": "Nhịn ăn khoa học",
+      "price": 42,
+      "image": "/image/kh12.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 78,
+      "name": "Ung thư",
+      "price": 74,
+      "image": "/image/kh13.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 79,
+      "name": "Thanh lọc não bộ",
+      "price": 44,
+      "image": "/image/kh14.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 80,
+      "name": "Hệ miễn dịch",
+      "price": 66,
+      "image": "/image/kh15.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    },
+    {
+      "id": 81,
+      "name": "Ăn theo nhóm máu",
+      "price": 22,
+      "image": "/image/kh16.jpg",
+      "detail": "Cuốn sách là tập hợp nhiều câu chuyện, lý thuyết, vấn đề liên quan đến khoa học trong cuộc sống",
+      "cat_id": 5
+    }
+  ]
